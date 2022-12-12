@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedObjectDemo", "NestedObjectDemo\NestedObjectDemo.csproj", "{60736C0E-DF49-44FA-80D9-0C0FBC050017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedObjectDemo.Tests", "NestedObjectDemo.Tests\NestedObjectDemo.Tests.csproj", "{73E96A55-2F7C-4735-B629-7D39F21F1E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60736C0E-DF49-44FA-80D9-0C0FBC050017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60736C0E-DF49-44FA-80D9-0C0FBC050017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60736C0E-DF49-44FA-80D9-0C0FBC050017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60736C0E-DF49-44FA-80D9-0C0FBC050017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E96A55-2F7C-4735-B629-7D39F21F1E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E96A55-2F7C-4735-B629-7D39F21F1E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E96A55-2F7C-4735-B629-7D39F21F1E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E96A55-2F7C-4735-B629-7D39F21F1E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9DF6F1-202E-4F5F-9356-636949F6BD9E}
+	EndGlobalSection
+EndGlobal
